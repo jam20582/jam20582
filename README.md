@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**jam20582/jam20582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Juan Andres
+## _FullStack Developer_
 
-Here are some ideas to get you started:
+Languages and tools: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- HTML
+- CSS
+- ReactJs
+- Node.Js
+- Express
+- Sequelize
+- Postgresql
+- NextJs
+- Chakra-UI
+- Redux
+
+## Somethign about me
+
+🔭 I’m currently working on my final project of the Henry Bootcamp
+
+🌱 I’m currently learning MongoDB
+
+🌍 Looking for a remote work as developer
+
+📫 How to reach me jam20582@gmail.com
+
+
